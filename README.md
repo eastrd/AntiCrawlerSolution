@@ -400,14 +400,18 @@ PS: 关于`headless`浏览器，现在主要推荐`google-chromium` 可以使用
 # 3 大V推荐
 
 ### 验证码相关： 
-    [冷月的博客](https://lengyue.me/)
+    
+[冷月的博客](https://lengyue.me/)
 
 ### Js逆向分析： 
-    [dust的博客](https://blowingdust.com/)
+    
+[dust的博客](https://blowingdust.com/)
 
 ### 脱壳破解相关：
-    [吾爱破解](https://www.52pojie.cn/forum-5-1.html)
+    
+[吾爱破解](https://www.52pojie.cn/forum-5-1.html)
 
 ### 安全相关： 
-    [zzh](https://www.zzhsec.com)
-    [freebuf](https://www.freebuf.com/)
+    
+[zzh](https://www.zzhsec.com)
+[freebuf](https://www.freebuf.com/)
