@@ -209,7 +209,7 @@
 
  关于这个Chrome Snippets怎么使用，大家直接参考这个这个[Github](https://github.com/paulirish/break-on-access)的链接，解释的挺清楚。有了这个工具，我们调用一下：
 
-breakOn(document, 'cookie');
+`breakOn(document, 'cookie');`
 
 就可以在任何语句修改Cookie的时候，进入断点。再通过单点调试，逐步揭开反爬工程师险恶的面纱了。 
 
